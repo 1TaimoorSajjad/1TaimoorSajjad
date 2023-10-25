@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1taimoorsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="1taimoorsajjad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1taimoorsajjad" alt="1taimoorsajjad" /></a> </p>
-
 - 🔭 I’m currently working on **Arizona Learning Management System**
 
 - 🌱 I’m currently learning **MEAN Stack**
