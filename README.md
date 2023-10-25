@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taimoor sajjad</h1>
 <h3 align="center">Let's Code...</h3>
-<img src="https://usagif.com/wp-content/uploads/gif/outerspace-6.gif" alt="spaceImage">
+<img align= "right" width = "400" src="https://usagif.com/wp-content/uploads/gif/outerspace-6.gif" alt="spaceImage">
 - 🔭 I’m currently working on **Arizona Learning Management System**
 
 - 🌱 I’m currently learning **MEAN Stack**
