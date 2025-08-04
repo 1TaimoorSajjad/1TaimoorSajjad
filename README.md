@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MEAN Stack**
 
-- 👨‍💻 All of my projects are available at [taimoorsajjad.com](taimoorsajjad.com)
-
 - 💬 Ask me about **TailwindCSS, Angular, JavaScript**
 
 - 📫 How to reach me **taimoorsajjad980@gmail.com**
